@@ -1,0 +1,9 @@
+ticket_id,query,category,priority,status
+TCK-1001,My task submission link shows invalid URL error on portal,Task Submission,High,Resolved
+TCK-1002,When will the machine learning certificates be dispatched?,Certification,Medium,Resolved
+TCK-1003,Forgot password email not arriving in inbox,Portal & LMS Access,High,Resolved
+TCK-1004,Need help installing PyTorch CUDA version on Windows,Technical Tracks,Low,Resolved
+TCK-1005,Can I get a 2 day extension for semester final exams?,Task Submission,Medium,Resolved
+TCK-1006,How to verify certificate ID on national portal?,Certification,Low,Resolved
+TCK-1007,Want to switch from web dev to machine learning track,Technical Tracks,Medium,Resolved
+TCK-1008,LMS dashboard displays HTTP 500 error when clicking modules,Portal & LMS Access,High,Resolved

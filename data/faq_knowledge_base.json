@@ -1,0 +1,51 @@
+[
+  {
+    "id": "FAQ-SUB-01",
+    "category": "Task Submission",
+    "question": "How do I submit my completed internship tasks and projects?",
+    "answer": "All tasks must be pushed to a public GitHub repository containing a well-documented README.md, requirements.txt, and live demo link (if applicable). Submit the GitHub repository URL and live application link through the official internee.pk task portal before the weekly deadline.",
+    "keywords": ["submit task", "project submission", "github link", "portal submission", "deadline", "how to submit"]
+  },
+  {
+    "id": "FAQ-SUB-02",
+    "category": "Task Submission",
+    "question": "What is the deadline for weekly milestone submissions, and what happens if I submit late?",
+    "answer": "Milestone tasks are evaluated on a weekly cycle. If you require an extension due to academic exams or illness, email support or submit a support ticket at least 24 hours prior to the deadline to request a 48-hour grace period.",
+    "keywords": ["late submission", "deadline extension", "grace period", "exam delay"]
+  },
+  {
+    "id": "FAQ-CERT-01",
+    "category": "Certification",
+    "question": "What are the criteria to earn the verified Internship Completion Certificate?",
+    "answer": "To qualify for the verified completion certificate, interns must complete at least 80% of assigned track tasks, publish documented code repositories to GitHub, and pass the final mentor review with a minimum passing grade of 70%. Certificates are issued digitally via the portal within 7 to 10 working days of batch completion.",
+    "keywords": ["certificate", "completion criteria", "internship certificate", "verify certificate", "passing grade"]
+  },
+  {
+    "id": "FAQ-CERT-02",
+    "category": "Certification",
+    "question": "Can I receive a Letter of Recommendation (LOR)?",
+    "answer": "Yes. Top-performing interns who complete 100% of milestones with exceptional documentation and active community participation can request a performance-based Letter of Recommendation (LOR) from their assigned technical lead upon final evaluation.",
+    "keywords": ["letter of recommendation", "lor", "recommendation letter", "top intern"]
+  },
+  {
+    "id": "FAQ-ACC-01",
+    "category": "Portal & LMS Access",
+    "question": "I cannot log in to the internee.pk LMS portal or reset my password. What should I do?",
+    "answer": "First, clear your browser cache and attempt a password reset via the 'Forgot Password' link. If you do not receive the reset token within 10 minutes, check your spam/junk folder. If access issues persist, submit an escalated ticket with your registered email and student ID for an administrative reset.",
+    "keywords": ["login issue", "cannot login", "forgot password", "portal access", "lms locked", "reset password"]
+  },
+  {
+    "id": "FAQ-TECH-01",
+    "category": "Technical Tracks",
+    "question": "Which programming language and framework versions are recommended for the AI and Machine Learning track?",
+    "answer": "Python 3.10 or higher is required. Key libraries include Scikit-Learn, Pandas, NumPy, XGBoost, and PyTorch. For deployment milestones, use Streamlit or FastAPI containerized with Docker.",
+    "keywords": ["python version", "ml libraries", "ai track", "machine learning requirements", "frameworks"]
+  },
+  {
+    "id": "FAQ-TECH-02",
+    "category": "Technical Tracks",
+    "question": "Can I change my internship track after enrollment?",
+    "answer": "Track transfers are allowed only within the first 7 calendar days of the internship batch launch. Submit a ticket under 'Track Transfer' with your rationale. Once week 2 begins, tracks are locked to ensure grading integrity.",
+    "keywords": ["change track", "switch domain", "transfer track", "course change"]
+  }
+]
